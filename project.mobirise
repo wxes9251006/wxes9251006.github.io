@@ -3,7 +3,7 @@
     "name": "資管2-2孫鈺翔",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "4.3.2",
     "theme": {
       "name": "mobirise4",
@@ -665,7 +665,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
